@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mbani/minishell)](https://github.com/JaeSeoKim/badge42)
-
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=mbani)]
