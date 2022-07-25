@@ -36,6 +36,7 @@ I’ve always been a great problem solver, and a technophile obsessed with the l
 
 <p align="left"> <a href="https://discord.com/users/Mbani#1009" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mbani01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mouadbani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<!---
 ### Badges
 
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=mbani)](https://github.com/mohouyizme/1337-readme)
@@ -47,4 +48,4 @@ I’ve always been a great problem solver, and a technophile obsessed with the l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbani01&count_private=true&show_icons=true&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=mbani01)
-
+-->
