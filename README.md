@@ -4,7 +4,7 @@ Hi 👋 My name is Mouad BANI
 Back-End Developer
 ------------------
 
-As a software developer with a passion for technology and a talent for problem-solving, I am excited to be working as a back-end developer at an early-stage startup. My skillset includes a range of programming languages and technologies, including C, C++, JavaScript/TypeScript, Docker, and Kubernetes, and I am always looking for ways to improve and expand my expertise. Whether through self-study or hands-on projects, I am dedicated to staying up-to-date with the latest technologies and best practices in the field.
+I am a software developer skilled in multiple programming languages and technologies, including C, C++, JavaScript/TypeScript, Docker, and Kubernetes. I am currently working as a back-end developer at an early-stage startup and am dedicated to staying up-to-date with the latest technologies and best practices in the field.
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [mouad-mb@outlook.com](mailto:mouad-mb@outlook.com)
